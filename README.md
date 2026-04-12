@@ -1,16 +1,31 @@
-## Hi there 👋
+![banner](Assets/banner.gif)
 
-<!--
-**rebangkkuser/rebangkkuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there👋
 
-Here are some ideas to get you started:
+I am bangkkuser, and my focus is....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Technology
+- Android, AOSP
+- Magisk Modules
+- Phones
+- And more!
+
+---
+
+## My projects for you _and all people._
+
+### androidneko
+https://github.com/rebangkkuser/androidneko
+
+A lightweight and efficient Magisk module that cleans RAM and optimizes the device WITH THE PRESS OF A BUTTON. No frills of automatic execution, you know this could... break something.
+
+Licensed under GNU GPL v3
+
+---
+
+### DozePlus
+https://github.com/rebangkkuser/DozePlus
+
+A lightweight Magisk module that gives Android Doze a slight boost and also closes background apps with just ONE click.
+
+Licensed under GNU GPL v3
